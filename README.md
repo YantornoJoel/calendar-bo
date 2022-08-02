@@ -2,11 +2,11 @@
 
 Aplicación con registro y login, rutas públicas y privadas, creación de eventos en el calendario
 
-### Librerias usadas
+## Librerias usadas
 Redux
-|Redux-toolkit
-|Axios
-|Date-fns
-|React-big-calendar
-|React-router-dom
-|Sweetalert2
+| Redux-toolkit
+| Axios
+| Date-fns
+| React-big-calendar
+| React-router-dom
+| Sweetalert2
